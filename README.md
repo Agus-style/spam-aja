@@ -1,3 +1,6 @@
-# Ini Spam Buat Spam Ripper/Penipu Spam aja ape mampus
-git clone
-cd spam-aja 
+# pkg install up & ud
+# pkg install python
+# git clone
+# cd spam-aja
+# python Sw-Spam.py
+# 
